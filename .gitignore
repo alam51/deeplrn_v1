@@ -10,3 +10,16 @@ dist/
 .DS_Store
 Thumbs.db
 desktop.ini
+.git/
+__pycache__/
+env/
+env.bak/
+venv.bak/
+venv/
+.sqlite3
+Pipfile.lock
+Pipfile
+celerybeat-schedule
+Readme.md
+.env
+celerybeat-schedule.db
